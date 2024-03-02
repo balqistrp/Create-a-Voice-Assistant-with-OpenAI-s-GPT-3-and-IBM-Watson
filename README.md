@@ -7,7 +7,6 @@ Author : Cognitive Class AI
 ## Tech Stack
 - Javascript
 - Python
-- Caikit
 - Docker
 - HTML
 - CSS
